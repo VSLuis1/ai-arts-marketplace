@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "item-1.png",
+    "title": "Anime Girl",
+    "username": "riya",
+    "price": 3
+  },
+  {
+    "id": 2,
+    "image": "item-2.png",
+    "title": "Draft Bunker",
+    "username": "utkarsh",
+    "price": 2.34
+  },
+  {
+    "id": 3,
+    "image": "item-3.png",
+    "title": "Colourful Parrot",
+    "username": "vsluis",
+    "price": 10.5
+  },
+  {
+    "id": 4,
+    "image": "item-4.png",
+    "title": "Cute Puppies",
+    "username": "sangh",
+    "price": 20.5
+  },
+  {
+    "id": 5,
+    "image": "item-5.png",
+    "title": "Kitten",
+    "username": "tanu",
+    "price": 7
+  },
+  {
+    "id": 6,
+    "image": "item-6.png",
+    "title": "Bold Girl",
+    "username": "uday",
+    "price": 80
+  }
+]
